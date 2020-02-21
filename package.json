@@ -1,0 +1,23 @@
+{
+  "name": "SKebook",
+  "version": "1.0.0",
+  "description": "这是基于gitbook的电子书",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaokuangkuang/SKebook.git"
+  },
+  "keywords": [],
+  "author": "shaokuang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaokuangkuang/SKebook/issues"
+  },
+  "homepage": "https://github.com/shaokuangkuang/SKebook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
